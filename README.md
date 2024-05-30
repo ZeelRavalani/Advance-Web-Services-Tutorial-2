@@ -6,6 +6,8 @@ This repository contains the code for Tutorial 2, demonstrating the deployment o
 * *Last Modification Date*: 30 May 2024
 * *Lab URL*: <https://subtle-toffee-5f1d35.netlify.app/>
 * *GitHub URL*: <https://github.com/ZeelRavalani/Advance-Web-Services-Tutorial-2>
+* *GitLab Group Project URL*: <https://git.cs.dal.ca/kottur/csci-5709-group-12/-/tree/main>
+* *GitLab Group Project Individual Branch URL*: <https://git.cs.dal.ca/kottur/csci-5709-group-12/-/tree/zeel-ravalani?ref_type=heads>
 
 ## Authors
 

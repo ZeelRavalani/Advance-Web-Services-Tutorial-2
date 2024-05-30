@@ -6,8 +6,16 @@ This repository contains the code for Tutorial 2, demonstrating the deployment o
 * *Last Modification Date*: 30 May 2024
 * *Lab URL*: <https://subtle-toffee-5f1d35.netlify.app/>
 * *GitHub URL*: <https://github.com/ZeelRavalani/Advance-Web-Services-Tutorial-2>
+* *GitLab Tutorial 2 URL*: <https://git.cs.dal.ca/ravalani/csci-5709-tutorials/-/tree/main/Tutorial2?ref_type=heads>
+* *GitLab Individual Tutorial 2 Repo URL*: <https://git.cs.dal.ca/ravalani/csci-5709-tutorial2/-/tree/main>
+* *GitLab Assignment URL*: <https://git.cs.dal.ca/ravalani/csci-5709-assignments/-/tree/main>
 * *GitLab Group Project URL*: <https://git.cs.dal.ca/kottur/csci-5709-group-12/-/tree/main>
-* *GitLab Group Project Individual Branch URL*: <https://git.cs.dal.ca/kottur/csci-5709-group-12/-/tree/zeel-ravalani?ref_type=heads>
+    * *GitLab Group Project **zeel-ravalani** Branch URL*: <https://git.cs.dal.ca/kottur/csci-5709-group-12/-/tree/zeel-ravalani?ref_type=heads>
+    * *GitLab Group Project **pratik-sakaria** Branch URL*: <https://git.cs.dal.ca/kottur/csci-5709-group-12/-/tree/pratik-sakaria?ref_type=heads>
+    * *GitLab Group Project **namrata-bhaumik** Branch URL*: <https://git.cs.dal.ca/kottur/csci-5709-group-12/-/tree/namrata-bhaumik?ref_type=heads>
+    * *GitLab Group Project **sanjana-rampurkottur** Branch URL*: <https://git.cs.dal.ca/kottur/csci-5709-group-12/-/tree/sanjana-rampurkottur?ref_type=heads>
+    * *GitLab Group Project **prithvi-manoj-krishna** Branch URL*: <https://git.cs.dal.ca/kottur/csci-5709-group-12/-/tree/prithvi-manoj-krishna?ref_type=heads>
+    * *GitLab Group Project **mdsamshad-rahman** Branch URL*: <https://git.cs.dal.ca/kottur/csci-5709-group-12/-/tree/mdsamshad-rahman?ref_type=heads>
 
 ## Authors
 

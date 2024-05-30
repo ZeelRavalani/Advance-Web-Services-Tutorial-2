@@ -1,70 +1,103 @@
-# Getting Started with Create React App
+# Tutorial 2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the code for Tutorial 2, demonstrating the deployment of a simple React application on Netlify.
 
-## Available Scripts
+* *Date Created*: 30 May 2024
+* *Last Modification Date*: 30 May 2024
+* *Lab URL*: <https://subtle-toffee-5f1d35.netlify.app/>
+* *GitHub URL*: <https://github.com/ZeelRavalani/Advance-Web-Services-Tutorial-2>
 
-In the project directory, you can run:
+## Authors
 
-### `npm start`
+* [Zeel Ravalani](zeel.ravalani@dal.ca) - *(Developer)*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+These instructions will get you a copy of the project up and running on your local machine for development, testing, and deployment purposes.
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To run this project locally, you will need to have the following software installed:
 
-### `npm run build`
+* Node.js (https://nodejs.org/)
+* npm (comes with Node.js) or yarn (https://yarnpkg.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installing
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Follow these steps to set up the development environment:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
 
-### `npm run eject`
+    ```bash
+    git clone https://github.com/ZeelRavalani/Advance-Web-Services-Tutorial-2.git
+    cd Advance-Web-Services-Tutorial-2
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Install the dependencies:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    ```bash
+    npm install
+    ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    or if you prefer yarn:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    ```bash
+    yarn install
+    ```
 
-## Learn More
+3. Start the development server:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    ```bash
+    npm start
+    ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+    or with yarn:
 
-### Code Splitting
+    ```bash
+    yarn start
+    ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+You should see the application running at `http://localhost:3000` with a message "It Works!".
 
-### Analyzing the Bundle Size
+## Running the tests
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+No automated tests have been implemented for this tutorial.
 
-### Making a Progressive Web App
+## Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+To deploy the project on a live system, follow these steps:
 
-### Advanced Configuration
+1. Build the project:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+    ```bash
+    npm run build
+    ```
 
-### Deployment
+    or with yarn:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+    ```bash
+    yarn build
+    ```
 
-### `npm run build` fails to minify
+2. Deploy the contents of the `build` directory to your hosting service. For this tutorial, we will use Netlify.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+3. Connect your GitHub repository to Netlify and follow the instructions to deploy the site. Ensure the build command is `npm run build` and the publish directory is `build`.
+
+## Built With
+
+* [React](https://reactjs.org/) - The web framework used
+* [Create React App](https://create-react-app.dev/) - Boilerplate code used to set up the React project
+
+## Sources Used
+
+No external code sources were used for this tutorial.
+
+## Artificial Intelligence Tools Used
+
+No AI tools were used for this tutorial.
+
+## Acknowledgments
+
+* Hat tip to the developers of Create React App for providing an easy way to bootstrap React projects.
+* Inspiration for the deployment process from [Netlify documentation](https://docs.netlify.com/).
+
